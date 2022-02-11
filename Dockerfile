@@ -1,9 +1,9 @@
-FROM SLTechnicalTips/CyberQueen:latest
+FROM MhmdMukarram/ChintuBot:latest
 
-RUN git clone https://github.com/MhmdMukarram/CHINTU-101 /root/CyberQueen
-WORKDIR /root/CyberQueen/
+RUN git clone https://github.com/MhmdMukarram/CHINTU-101 /root/ChintuBot
+WORKDIR /root/ChintuBot/
 ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
 RUN yarn install --no-audit
-##CyberQueen 
+##ChintuBot 
 CMD ["node", "app.json"]
