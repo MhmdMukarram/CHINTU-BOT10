@@ -1,5 +1,4 @@
-# CHINTU-BOT10
-ℂℍ𝕀ℕ𝕋𝕌 𝔹𝕆𝕋 ℂℝ𝔼𝔸𝕋𝔼𝔻 𝔹𝕐 ༒︎𝚁𝙴𝙳 𝙰𝙻𝙿𝙷𝙰༒︎
+
 </a></p>
 <div align="center"><img src="https://profile-counter.glitch.me/MhmdMukarram/count.svg" /><br>Profile Viewers</div>
 
