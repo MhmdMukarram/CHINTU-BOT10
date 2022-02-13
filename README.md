@@ -79,7 +79,7 @@ Click WA logo to Join Support Group 👇
 
 > Deploy Your Bot On Heroku ✏
 
-<div align="left"><a href="http://heroku.com/deploy?template=https://github.com/MhmdMukarram/CHINTU-101"><img src="https://i.ibb.co/WPRfjrZ/c6eb7d6b6606.png" width="150" ></a></div>
+<div align="left"><a href="http://heroku.com/deploy?template=https://github.com/MhmdMukarram/CHINTU-BOT10"><img src="https://i.ibb.co/WPRfjrZ/c6eb7d6b6606.png" width="150" ></a></div>
       
      
 <br>
