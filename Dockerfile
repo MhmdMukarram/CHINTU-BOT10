@@ -1,6 +1,6 @@
 FROM MhmdMukarram/ChintuBot:latest
 
-RUN git clone https://github.com/MhmdMukarram/CHINTU-101 /root/ChintuBot
+RUN git clone https://github.com/MhmdMukarram/CHINTU-BOT10 /root/ChintuBot
 WORKDIR /root/ChintuBot/
 ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
